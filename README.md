@@ -4,13 +4,9 @@ A minimalistic, fully responsive one-page WordPress custom theme integrated with
 
 ## 🚀 Live Preview
 
-- 🌐 [Live Demo on Netlify]
+- 🌐 [Live Demo on Netlify] 
+https://react-wordpress-integration.netlify.app/
 
-## 📁 Repository
-
-- 💻 [GitHub Repository]
-
----
 
 ## 🧰 Tech Stack
 
@@ -21,5 +17,5 @@ A minimalistic, fully responsive one-page WordPress custom theme integrated with
 
 ---
 
-## 📦 Project Structure
+
 
